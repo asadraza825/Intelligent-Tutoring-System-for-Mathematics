@@ -1,0 +1,64 @@
+﻿.btn,a.btn{
+	border: 1px solid #e5e5e5 !important;
+	background:#F0F0F0;
+    color: black !important;
+    text-decoration:none !important;
+    padding: 4px !important;
+}
+#agent_container{
+
+}
+#hint{
+width:auto;
+height:100px;
+padding:10px;
+float:left;
+}
+
+div#hint a.btn{font-weight:bold;}
+#problem_cotainer{
+	
+}
+table.table td.example {
+    color: red;
+    font-weight: bold;
+}
+table.table td.sol {
+    color: #919ADE;
+    font-weight: bold;
+}
+.options{
+	font-size:18px;
+}
+
+table.options td{
+	padding:3;
+}
+.question{
+
+}
+
+.content{
+	   margin-left: 150px;
+	   height:auto;
+	   
+}
+.header_menu{
+
+	line-height:10px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url('../images/bk.jpg') #ffffff repeat-x 50% top;
+	color: #353535;
+	font-size: 12px
+}
+.header_top {
+	line-height: 18px;
+	background: url('../images/bk.jpg') #ffffff repeat-x 50% top;
+	color: #353535;
+	
+}
+.qs{
+background-color:#ECEFF4;color:#black;
+font-size:18px;
+padding:5px;
+}

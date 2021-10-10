@@ -1,0 +1,54 @@
+/*
+Template Name: School Education
+File: Tables CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>
+*/
+
+table{
+	width:80%;
+	border-collapse:collapse;
+	table-layout:auto;
+	vertical-align:top;
+	margin-bottom:15px;
+	}
+
+table thead th{
+	color:#FFFFFF;
+	background-color:#666666;
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:auto;
+	vertical-align:middle;
+	}
+
+table tbody td{
+	border-collapse:collapse;
+	}
+	
+table thead th, table tbody td{
+	padding:5px;
+	border-collapse:collapse;
+	}
+
+table tbody tr.light{
+	color:#666666;
+	background-color:#F7F7F7;
+	}
+
+table tbody tr.dark{
+	color:#666666;
+	background-color:#E8E8E8;
+	}
+#algn
+	{
+		text-align:left;
+		font-size:15px;
+		font-family:Arial, Helvetica, sans-serif;
+	}
+#wid
+{
+	width:70%;
+}
