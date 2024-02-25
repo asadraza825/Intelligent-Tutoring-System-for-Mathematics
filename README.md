@@ -1,3 +1,8 @@
-# Intelligent-Tutoring-System-for-Mathematics
+# Metacognitive Mathematics Tutor: Mathematics Tutoring System with Metacognitive Strategies
+# Abstract
+The key aim of this research was to investigate the metacognitive mathematics tutor impact on students learning and metacognition. Student needs special learning strategies to experience better learning in mathematics. Metacognitive Mathematics Tutor is an intelligent tutoring system that supports three metacognitive learning strategies self explanation, self-questioning, and self-monitoring. Metacognition is higher-order thinking. Metacognitive strategies are learning strategies that support student learning. Students can improve their learning through metacognition skills. A total of 70 students were involved in the evaluation of the Metacognitive mathematics tutor, 35 were sixth and 35 were seventh-grade students. Pretest and Posttest experimental design was used for evaluation. Students used mathematics practice sheets in the pretest, and then in the posttest, they used a Metacognitive mathematics tutor. A quiz was conducted to measure learning while Jr. MAI version B was also given to assess metacognitive skills. Results show that students' learning has increased in their metacognition after using the metacognitive mathematics tutor. Statistically significant differences in results between pretest and posttest (Man-Whitney, p<0.05) have been observed.
 
-# Developed by Asad Raza email: asadraza825@gmail.com
+# Paper link:
+https://www.researchgate.net/publication/310463690_Metacognitive_Mathematics_Tutor_Mathematics_Tutoring_System_with_Metacognitive_Strategies
+# Please Cite this paper if you are using this code:
+Raza, A., Kazi, H., & Nizamani, M. A. (2016). Metacognitive Mathematics Tutor: Mathematics Tutoring System with Metacognitive Strategies. International Journal of Computer Applications, 153(4), 21-31.
